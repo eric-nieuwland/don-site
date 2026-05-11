@@ -1,5 +1,12 @@
 # @developer-overheid-nl/website
 
+## 1.3.0
+
+### Minor Changes
+
+- f737426: Voegt een artikel toe van Tim van der Lippe over de zachte kant van
+  standaarden.
+
 ## 1.2.0
 
 ### Minor Changes
